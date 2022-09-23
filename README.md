@@ -44,5 +44,4 @@ The client needs to put it's own input file path and output file path.
 
 This can be achieved creating a folder file named `resources` in the main folder and under it, create two new folder named `input`, `output` and new file named `config.properties` which will be stored safetly input file path and output file path. 
 
-To get the input file path and output file path, the user needs to click right to one of the file and press the option `Copy Path/Reference` -> `Absolute Path`.
-
+To get the input file path and output file path, the user needs to click right to one of the file and press the option `Copy Path/Reference` -> `Absolute Path` and add a `/` at the end for every file path.
